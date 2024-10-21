@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0a85fd6b-8439-4460-ad8c-198c8f235178)## 단기세미나 자료
+## 단기세미나 자료
 
 :open_book: 강의 자료
 - 파이썬 기본 : https://1drv.ms/b/s!Am_J0wepAIF1hOgF6qMhWqBLCB6K6A
