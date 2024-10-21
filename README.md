@@ -4,6 +4,7 @@
 - 파이썬 기본 : https://1drv.ms/b/s!Am_J0wepAIF1hOgF6qMhWqBLCB6K6A
 - 판다스(엑셀파일) : https://1drv.ms/b/s!Am_J0wepAIF1hsUMHUDCEY-0hk3Hbw?e=9whRAz
 - openpyxl,pptx 라이브러리 : https://1drv.ms/b/s!Am_J0wepAIF1hsUNoe1eAd_FSsak-A?e=8MllPX
+- 머신러닝 맛보기(scikit-learn) : https://1drv.ms/b/s!Am_J0wepAIF1hsxISGo3n_0VR3KolA?e=1McyJN
 
 
 :books: 자료 출처 
